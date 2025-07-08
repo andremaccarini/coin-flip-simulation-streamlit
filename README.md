@@ -30,6 +30,8 @@ pip install -r requirements.txt
 # Run the app
 streamlit run main.py
 
+```
+
 ## 🎮 Preview
 
 ![App Preview](img/preview.png)
