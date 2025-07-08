@@ -36,7 +36,8 @@ streamlit run main.py
 
 ![App Preview](img/preview.png)
 
-📊 Features
+## 📊 Features
+
 ✅ Interactive slider to select the number of coin tosses (1 to 1000)
 
 ✅ Real-time chart of empirical probability as simulation progresses
@@ -45,20 +46,22 @@ streamlit run main.py
 
 ✅ Data table with number of trials and corresponding means
 
-🧠 What I Learned
+## 🧠 What I Learned
+
 How to simulate Bernoulli distributions using scipy.stats
 
 How to update charts in real time with Streamlit
 
 How to manage application state with st.session_state
 
-📈 Possible Improvements
+## 📈 Possible Improvements
+
  Add option to simulate biased coins
 
  Add mathematical explanations alongside visualizations
 
  Add export of experiment results to CSV
 
-✍️ Author
+## ✍️ Author
+
 André Maccarini
-LinkedIn | Medium | Kaggle
