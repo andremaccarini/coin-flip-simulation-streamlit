@@ -8,7 +8,7 @@ This is an interactive web application built using **Streamlit** and **SciPy** t
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python
 - Streamlit
 - Pandas
 - SciPy
